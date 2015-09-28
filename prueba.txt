@@ -1,6 +1,9 @@
 Hola
 Esta es la segunda línea
 Adios
+DNI
+edad
+fecha
 hola esto es una prueba
 Añadimos tres líneas
 subimos a github
